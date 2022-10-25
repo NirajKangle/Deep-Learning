@@ -1,2 +1,2 @@
 # Deep-Learning
-This Repository will contain al Deep learning projects
+This Repository will contain all Deep learning project folders.
